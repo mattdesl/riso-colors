@@ -2,7 +2,7 @@
   "name": "riso-colors",
   "version": "1.0.0",
   "description": "A list of Risograph printer colors",
-  "main": "index.js",
+  "main": "./riso-colors.json",
   "license": "MIT",
   "author": {
     "name": "Matt DesLauriers",
